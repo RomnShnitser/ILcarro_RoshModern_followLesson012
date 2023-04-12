@@ -1,0 +1,35 @@
+02:39:23 INFO  q.TestBase TEST STARTED :: addNewCarPositiveTest
+02:39:23 INFO  q.TestBase - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+02:39:36 INFO  q.TestBase New car added: Car { address:'Tel Aviv'; make:'KIA'; model:'Sportage'; year:'2020'; fuel:'Petrol'; seats:'4'; carClass:'5'; carRegNumber:'100-200-2367'; price:'150'}
+02:39:38 INFO  q.TestBase - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+02:39:38 INFO  q.TestBase TEST ENDED :: addNewCarPositiveTest
+02:39:38 INFO  q.TestBase 
+================================================================================================================================
+
+
+02:39:38 INFO  q.TestBase TEST STARTED :: loginModelTest
+02:39:38 INFO  q.TestBase - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+02:39:40 INFO  q.TestBase Test: Registration Success with email: asd@fgh.com & password: $Asdf1234
+02:39:42 INFO  q.TestBase - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+02:39:42 INFO  q.TestBase TEST ENDED :: loginModelTest
+02:39:42 INFO  q.TestBase 
+================================================================================================================================
+
+
+02:39:42 INFO  q.TestBase TEST STARTED :: loginTest
+02:39:42 INFO  q.TestBase - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+02:39:45 INFO  q.TestBase Test: Registration Success with email: asd@fgh.com & password: $Asdf1234
+02:39:47 INFO  q.TestBase - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+02:39:47 INFO  q.TestBase TEST ENDED :: loginTest
+02:39:47 INFO  q.TestBase 
+================================================================================================================================
+
+
+02:39:47 INFO  q.TestBase TEST STARTED :: registrationPositiveTest
+02:39:47 INFO  q.TestBase - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+02:39:52 INFO  q.TestBase - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+02:39:52 INFO  q.TestBase TEST ENDED :: registrationPositiveTest
+02:39:52 INFO  q.TestBase 
+================================================================================================================================
+
+
